@@ -1,1 +1,0 @@
-# claude-ban-sim
